@@ -66,5 +66,5 @@ jupyter notebook salary_cleaning.ipynb
 
 ## Kết quả
 - **Input:** 2,800 hàng × 17 cột
-- **Output:** 2,762 hàng × 28 cột
+- **Output:** 2,751 hàng × 38 cột
 - **Pipeline:** Hàm `clean_data(df)` — tái sử dụng được, có docstring và unit tests
